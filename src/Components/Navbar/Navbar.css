@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    list-style: none;
+    text-decoration: none;
+}
+.navbar {
+    width: 100%;
+    text-align: center;
+}
+.navbar__input {
+    width: 600px;
+    height: 30px;
+}
+.navbar__se {
+    position: absolute;
+    top: 55px;
+    right: 360px;
+    background-color: red;
+}
+.navbar__btn {
+    width: 90px;
+    margin: 50px;
+    padding: 5px;
+}
